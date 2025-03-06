@@ -87,7 +87,7 @@ This is an easy guide to installing a help desk ticketing system called osTicket
 <h3 align="center">Download the Rewrite Module file, agree with all the terms and it should now be installed onto the Computer.</h3>
 <p>
 
-[img IIS rewrite]
+![img6](images/prereqs-install/ISS-install.png)
 
 </p>
 <br/>
@@ -96,11 +96,6 @@ This is an easy guide to installing a help desk ticketing system called osTicket
 <p>
 <h3 align="center"> Open File Explorer, type, "C:\" in the search bar, Right-click and create a new folder called, "PHP". Download php-7.3.8-nts-Win32-VC15-x86.zip from<a href="https://drive.google.com/drive/u/2/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6"> Files You Need to Download</a>, Extract it by going to where you download the file, Right-click the PHP 7.3.8 file and press extract to the PHP Folder you just created.
 </h3>
-<p>
-
-[install php]
- 
-</p>
 <br/>
 <h3 align="center">VC_REDIST DOWNLOAD</h3>
 <br/>
@@ -120,7 +115,9 @@ This is an easy guide to installing a help desk ticketing system called osTicket
 ![img8](images/prereqs-install/screenshot8.png)
   
 <br/>
-  (IMG Web platform installer)
+
+![img](images/prereqs-install/webplatform.png)
+ 
 </p>
 <br/>
 <h3 align="center">Install osTicket v1.15.8</h3>
@@ -133,12 +130,9 @@ This is an easy guide to installing a help desk ticketing system called osTicket
 </p>
 	
  ![img9](images/prereqs-install/screenshot9.png)
-	(PIC upload folder)
+ 
 <p>
 	Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”:
-</p>
-<p>
-	(PIC 14)
 </p>
 <br />
 <br />
@@ -222,7 +216,9 @@ This is an easy guide to installing a help desk ticketing system called osTicket
 	Disable inheritance -> Remove All:
 </p>
 <p>
-	(PIC 21)
+	
+![img](images/prereqs-install/disable.png)
+
 </p>
 <p>
 	New Permissions -> Everyone -> All:
