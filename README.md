@@ -1,3 +1,4 @@
+![osTicket Logo](images/osTicketlogo.png)
 # 🎫 osTicket Project Overview
 
 osTicket is a widely-used open-source support ticket system that helps businesses manage customer service requests efficiently.
