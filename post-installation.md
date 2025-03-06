@@ -1,5 +1,7 @@
 <p align="center">
-(OSTICKET LOGO)
+
+![img logo](images/osTicketlogo.png)
+  
 </p>
 
 <h1>osTicket - Post-Install Configuration</h1>
@@ -41,11 +43,16 @@ This tutorial outlines the post-install configuration of the open-source help de
   Supreme Admin:
 </p>
 <p>
-  (IMG 1)
-  (IMG 2)
-  (IMG 3)
-  (IMG 4)
-  (IMG 5)
+  
+![img](images/post-install/2part2.png)
+
+![img](images/post-install/2part4.png)
+
+![img](images/post-install/2part5.png)
+
+![img](images/post-install/2part6.png)
+
+![img](images/post-install/2part7.png)
 </p>
 <br />
 <br />
@@ -58,8 +65,9 @@ This tutorial outlines the post-install configuration of the open-source help de
   System Administrators:
 </p>
 <p>
-  (IMG 6)
-  (IMG 7)
+
+![img](images/post-install/2part8.png)
+
 </p>
 <br />
 <br />
@@ -72,7 +80,9 @@ This tutorial outlines the post-install configuration of the open-source help de
   Level II Support:
 </p>
 <p>
-  (IMG 8)
+
+![img](images/post-install/2part10.png)
+
 </p>
 <br />
 <br />
@@ -85,7 +95,9 @@ This tutorial outlines the post-install configuration of the open-source help de
   Make sure "Require registration and login to create tickets" is not selected:
 </p>
 <p>
-  (IMG 9)
+  
+![img](images/post-install/2part11.png)
+  
 </p>
 <br />
 <br />
@@ -97,13 +109,18 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p>
   Jane Doe:
 </p>
-  (IMG 10)
+
+![img](images/post-install/2part12.png)
+
 <p>
   John Doe:
 </p>
 <p>
-  (IMG 11)
-  (IMG 12)
+
+![img](images/post-install/2part13.png)
+
+![img](images/post-install/2part14.png) 
+
 </p>
 <h3 align="center">Configure Users (customers)</h3>
 <br />
@@ -113,9 +130,16 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p>
   Ken User:
 </p>
-  (IMG 13)
+  
+![img](images/post-install/2part15.png)
+  
 <p>
   Repeat the same above for Karen User.
+</p>
+<p>
+
+![img](images/post-install/2part16.png)
+  
 </p>
 <br />
 <br />
@@ -134,9 +158,12 @@ This tutorial outlines the post-install configuration of the open-source help de
   Sev-C (8 hours, business hours):
 </p>
 <p>
-  (IMG 14)
-  (IMG 15)
-  (IMG 16)
+
+
+![img](images/post-install/2part17.png)  
+![img](images/post-install/2part18.png)
+![img](images/post-install/2part19.png)
+
 </p>
 <br />
 <br />
@@ -158,10 +185,11 @@ This tutorial outlines the post-install configuration of the open-source help de
   Password Reset.
 </p>
 <p>
-  (IMG 17)
-  (IMG 18)
-  (IMG 19
-  (IMG 20)
+  
+![img](images/post-install/2part20.png)
+![img](images/post-install/2part21.png)
+![img](images/post-install/2part22.png)
+![img](images/post-install/2part23.png)
 </p>
 <br />
 <br />
